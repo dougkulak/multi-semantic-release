@@ -1,3 +1,10 @@
+# 1.0.0 (2021-08-21)
+
+
+### Features
+
+* **main:** add env-cmd and fix husky commit-msg hook ([fc79fb1](https://github.com/dougkulak/multi-semantic-release/commit/fc79fb1c81c102eb27495678c18f2765060b0035))
+
 # [3.15.0](https://github.com/qiwi/multi-semantic-release/compare/v3.14.2...v3.15.0) (2021-07-08)
 
 
