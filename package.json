@@ -2,7 +2,11 @@
 	"name": "@dougkulak/multi-semantic-release",
 	"author": "Doug Kulak <dougkulak@gmail.com>",
 	"version": "3.15.0",
-	"license": "0BSD",
+	"license": "MIT",
+	"private": false,
+	"publishConfig": {
+		"access": "public"
+	},
 	"engines": {
 		"node": ">=10.18",
 		"yarn": ">=1.0.0"
