@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/dougkulak/multi-semantic-release/compare/v1.0.0...v1.1.0) (2021-08-21)
+
+
+### Features
+
+* **main:** update codeclimate badges ([99b417d](https://github.com/dougkulak/multi-semantic-release/commit/99b417d29f4436c87cba9d2bf9618478ccd63d8f))
+
 # 1.0.0 (2021-08-21)
 
 
